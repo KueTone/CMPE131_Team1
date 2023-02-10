@@ -1,5 +1,7 @@
 #include <stdio.h>
 
-int main(){
-	printf("Test");
+int main()
+{
+	//Test comment
+	printf("Test\n");
 }
